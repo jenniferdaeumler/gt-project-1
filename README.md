@@ -1,4 +1,4 @@
-# gt-project-1
+# Remote Island App Project
 ## Description 
 
 This is our first project for the GT Full Stack Flex Program. This project was created to provide a solution to everyone's want to escape! We created a website where the user can decide what type of vacation they are interested in and it will then take you to the next page where you will see a video taking you to a destination. Below that you have the options to view weather that is similar to that destination and a cocktail that you can get the ingredients included and recipe from or have the option to view a different drink. 
